@@ -28,7 +28,7 @@ This Bash script automates the creation of a Flutter project following Clean Arc
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone git@github.com:Deo-Cell/flutter_clean_architecture_generator.git
    ```
 
 2. Navigate to the project directory:
@@ -118,7 +118,7 @@ Contributions are welcome! To contribute:
 1. Fork the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone git@github.com:Deo-Cell/flutter_clean_architecture_generator.git
    ```
 
 2. Create a new branch for your feature or bug fix:
